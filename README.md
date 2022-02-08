@@ -1,4 +1,4 @@
-# Photo_Resizing
+# Photo-Resizing
 
 UW CSE 373 Group Project
 
